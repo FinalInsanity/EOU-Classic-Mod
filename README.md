@@ -1,4 +1,4 @@
-A fix for Tildehat's wonderful EOU Classic Mod that adds the ability to make generic Highlanders and Gunners in Classic mode as well as access Gladsheim.
+A fix for Tildehat's wonderful Etrian Odyssey Untold Classic Mod that adds the ability to make generic Highlanders and Gunners in Classic mode as well as access Gladsheim.
 
 You can find the necessary files in the Releases section.
 
