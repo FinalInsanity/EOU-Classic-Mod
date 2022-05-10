@@ -1,5 +1,7 @@
 A fix for Tildehat's wonderful EOU Classic Mod that adds the ability to make generic Highlanders and Gunners in Classic mode as well as access Gladsheim.
+
 You can find the necessary files in the Releases section.
+
 I can claim no credit for the work Tildehat put into making the mod in the first place, and all your praise and gratitude should go to them.
 You can find the original repository here: https://github.com/Tildehat/EOU-Classic-Mod
 
